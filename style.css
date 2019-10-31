@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Karla&display=swap');
+
+body {
+    font-family: 'Karla', sans-serif;
+    background-color: #073f85;
+    color: white;
+}
+
+a {
+    color: #ebe53b;
+}
+
+a:hover {
+    color: #5c5a18;
+}
+
+.jumbotron {
+    background-color: #042a59;
+}
+
+.recommendation {
+    background-color: white;
+    color: black;
+}
